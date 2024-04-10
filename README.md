@@ -86,5 +86,5 @@ module.exports = [{
 ``` bash
 npm start
 ```
-
+ig
 ## [更新内容](https://github.com/wes-lin/Cloud189Checkin/wiki/更新内容)
